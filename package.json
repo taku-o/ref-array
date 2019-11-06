@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "2",
-    "ref": "1"
+    "ref": "github:taku-o/ref#node-12"
   },
   "devDependencies": {
     "bindings": "1",
